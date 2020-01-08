@@ -1,18 +1,18 @@
 # Support Infomation
-# Sun OF Dragon City
+# Splendid Spring Festival
 
 
 If you have any questions, please contact us at the email address below and we will answer you as soon as possible.
 
-Support email ：SunOFDragonCity@yeah.net
+Support email ：SplendidSpringFestival@yeah.net
 
 
 
 ## About
 
-**Sun OF Dragon City** 
+**Splendid Spring Festival** 
 
-Sun OF Dragon City Start here and try this simple game.
+Splendid Spring Festival Start here and try this simple game.
 
 Gameplay: Find the same characters and click on them to complete a elimination. Eliminate all the same characters in the game and pass the level.
 
